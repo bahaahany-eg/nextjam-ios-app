@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>893675029309-mbp3gaqp3ditp0ngi3sbm62dues7uubu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.893675029309-mbp3gaqp3ditp0ngi3sbm62dues7uubu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBmpytbcw9tDwRFw9VnMdwNFLqLNeHYvJQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>893675029309</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.nextJamLLC.NextJam</string>
+	<key>PROJECT_ID</key>
+	<string>nextjam-9c3d0</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nextjam-9c3d0.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:893675029309:ios:6a4ee1bbe5f64ab5dabb54</string>
+</dict>
+</plist>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NextJAM.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>bitcode</key>
+			<true/>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>13706AA99037CC6F7895B8507E928AF2F7FBF4F5</string>
+				<key>dateExpires</key>
+				<string>30/08/22</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>bitcode</key>
+					<true/>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>13706AA99037CC6F7895B8507E928AF2F7FBF4F5</string>
+						<key>dateExpires</key>
+						<string>30/08/22</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>IQKeyboardManager.framework</string>
+					<key>symbols</key>
+					<true/>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>3AXPA6WL7G</string>
+						<key>name</key>
+						<string>NextJam LLC</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>bitcode</key>
+					<true/>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>13706AA99037CC6F7895B8507E928AF2F7FBF4F5</string>
+						<key>dateExpires</key>
+						<string>30/08/22</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>IQKeyboardManagerSwift.framework</string>
+					<key>symbols</key>
+					<true/>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>3AXPA6WL7G</string>
+						<key>name</key>
+						<string>NextJam LLC</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>bitcode</key>
+					<true/>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>13706AA99037CC6F7895B8507E928AF2F7FBF4F5</string>
+						<key>dateExpires</key>
+						<string>30/08/22</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>SocketIO.framework</string>
+					<key>symbols</key>
+					<true/>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>3AXPA6WL7G</string>
+						<key>name</key>
+						<string>NextJam LLC</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>bitcode</key>
+					<true/>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>13706AA99037CC6F7895B8507E928AF2F7FBF4F5</string>
+						<key>dateExpires</key>
+						<string>30/08/22</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Starscream.framework</string>
+					<key>symbols</key>
+					<true/>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>3AXPA6WL7G</string>
+						<key>name</key>
+						<string>NextJam LLC</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>3AXPA6WL7G.com.nextJamLLC.NextJam</string>
+				<key>beta-reports-active</key>
+				<true/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>3AXPA6WL7G</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>3AXPA6WL7G.com.nextJamLLC.NextJam</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>NextJAM.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>bd180495-dd29-4649-8ca7-5d4121ae1737</string>
+				<key>name</key>
+				<string>iOS Team Store Provisioning Profile: com.nextJamLLC.NextJam</string>
+			</dict>
+			<key>symbols</key>
+			<true/>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>3AXPA6WL7G</string>
+				<key>name</key>
+				<string>NextJam LLC</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

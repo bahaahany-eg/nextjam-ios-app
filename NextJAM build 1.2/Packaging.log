@@ -1,0 +1,445 @@
+2021-08-31 11:38:01 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7f9c97045740; archive(resolved)='<IDEArchive: 0x7f9cb90f59a0>', distributionTask(resolved)='2', distributionDestination(resolved)='1', distributionMethod(resolved)='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f9cb395c920>', team(resolved)='<IDEProvisioningDisambiguatableBasicTeam: 0x7f9ccd131ee0; teamID='3AXPA6WL7G', teamName='NextJam LLC', teamType='Company', username='odeskmandeepkumar@gmail.com', isFreeProvisioningTeam='0'>'>
+	Chain (12, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7f9c97045740; archive = '<IDEArchive: 0x7f9cb90f59a0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f9cb395c920>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f9ccd131ee0; teamID='3AXPA6WL7G', teamName='NextJam LLC', teamType='Company', username='odeskmandeepkumar@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionProcessingPipelineContext: 0x7f9c982f5500; archive = '<IDEArchive: 0x7f9cb90f59a0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f9cb395c920>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f9ccd131ee0; teamID='3AXPA6WL7G', teamName='NextJam LLC', teamType='Company', username='odeskmandeepkumar@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f9c953d0240; archive = '<IDEArchive: 0x7f9cb90f59a0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f9cb395c920>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f9ccd131ee0; teamID='3AXPA6WL7G', teamName='NextJam LLC', teamType='Company', username='odeskmandeepkumar@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f9c966f7290; archive = '<IDEArchive: 0x7f9cb90f59a0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f9cb395c920>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f9ccd131ee0; teamID='3AXPA6WL7G', teamName='NextJam LLC', teamType='Company', username='odeskmandeepkumar@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f9c9679fbd0; archive = '<IDEArchive: 0x7f9cb90f59a0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f9cb395c920>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f9ccd131ee0; teamID='3AXPA6WL7G', teamName='NextJam LLC', teamType='Company', username='odeskmandeepkumar@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f9c96508570; archive = '<IDEArchive: 0x7f9cb90f59a0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f9cb395c920>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f9ccd131ee0; teamID='3AXPA6WL7G', teamName='NextJam LLC', teamType='Company', username='odeskmandeepkumar@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f9c95009380; archive = '<IDEArchive: 0x7f9cb90f59a0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f9cb395c920>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f9ccd131ee0; teamID='3AXPA6WL7G', teamName='NextJam LLC', teamType='Company', username='odeskmandeepkumar@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f9c950352e0; archive = '<IDEArchive: 0x7f9cb90f59a0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f9cb395c920>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f9ccd131ee0; teamID='3AXPA6WL7G', teamName='NextJam LLC', teamType='Company', username='odeskmandeepkumar@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f9c943a7300; archive = '<IDEArchive: 0x7f9cb90f59a0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f9cb395c920>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f9ccd131ee0; teamID='3AXPA6WL7G', teamName='NextJam LLC', teamType='Company', username='odeskmandeepkumar@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f9c92f06b90; archive = '<IDEArchive: 0x7f9cb90f59a0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f9cb395c920>', team='(null)'>
+	<IDEDistributionContext: 0x7f9c96abcdc0; archive = '<IDEArchive: 0x7f9cb90f59a0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f9cb395c920>', team='(null)'>
+	<IDEDistributionContext: 0x7f9cb73ec770; archive = '<IDEArchive: 0x7f9cb90f59a0>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x7f9c97045740>
+2021-08-31 11:38:01 +0000  Processing step: IDEDistributionCreateDestRootStep
+2021-08-31 11:38:01 +0000  Processing step: IDEDistributionCopyItemStep
+2021-08-31 11:38:01 +0000  Running /usr/bin/ditto '-V' '/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/Products/Applications/NextJAM.app' '/var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/Root/Payload/NextJAM.app'
+2021-08-31 11:38:01 +0000  >>> Copying /Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/Products/Applications/NextJAM.app 
+2021-08-31 11:38:01 +0000  copying file ./_CodeSignature/CodeResources ... 
+2021-08-31 11:38:01 +0000  12209 bytes for ./_CodeSignature/CodeResources
+2021-08-31 11:38:01 +0000  copying file ./AppIcon60x60@2x.png ... 
+2021-08-31 11:38:01 +0000  3439 bytes for ./AppIcon60x60@2x.png
+2021-08-31 11:38:01 +0000  copying file ./NextJAM ... 
+2021-08-31 11:38:01 +0000  2274992 bytes for ./NextJAM
+2021-08-31 11:38:01 +0000  copying file ./songTableViewCell.nib ... 
+5173 bytes for ./songTableViewCell.nib
+2021-08-31 11:38:01 +0000  copying file ./Base.lproj/Main.storyboardc/PlayingSongViewController.nib ... 
+2021-08-31 11:38:01 +0000  1040 bytes for ./Base.lproj/Main.storyboardc/PlayingSongViewController.nib
+2021-08-31 11:38:01 +0000  copying file ./Base.lproj/Main.storyboardc/UINavigationController-D39-hl-J1T.nib ... 
+2021-08-31 11:38:01 +0000  1794 bytes for ./Base.lproj/Main.storyboardc/UINavigationController-D39-hl-J1T.nib
+copying file ./Base.lproj/Main.storyboardc/wLU-HL-nPJ-view-Qmx-nJ-ToO.nib ... 
+2021-08-31 11:38:01 +0000  4800 bytes for ./Base.lproj/Main.storyboardc/wLU-HL-nPJ-view-Qmx-nJ-ToO.nib
+2021-08-31 11:38:01 +0000  copying file ./Base.lproj/Main.storyboardc/FHb-fq-eDe-view-dkg-b7-bPb.nib ... 
+2021-08-31 11:38:01 +0000  11697 bytes for ./Base.lproj/Main.storyboardc/FHb-fq-eDe-view-dkg-b7-bPb.nib
+2021-08-31 11:38:01 +0000  copying file ./Base.lproj/Main.storyboardc/LY6-af-WjV-view-T3G-rF-atG.nib ... 
+2021-08-31 11:38:01 +0000  6914 bytes for ./Base.lproj/Main.storyboardc/LY6-af-WjV-view-T3G-rF-atG.nib
+2021-08-31 11:38:01 +0000  copying file ./Base.lproj/Main.storyboardc/LoginViewController.nib ... 
+2021-08-31 11:38:01 +0000  1114 bytes for ./Base.lproj/Main.storyboardc/LoginViewController.nib
+2021-08-31 11:38:01 +0000  copying file ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2021-08-31 11:38:01 +0000  4448 bytes for ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+2021-08-31 11:38:01 +0000  copying file ./Base.lproj/Main.storyboardc/SearchViewController.nib ... 
+2021-08-31 11:38:01 +0000  1138 bytes for ./Base.lproj/Main.storyboardc/SearchViewController.nib
+2021-08-31 11:38:01 +0000  copying file ./Base.lproj/Main.storyboardc/DashboardViewController.nib ... 
+2021-08-31 11:38:01 +0000  1144 bytes for ./Base.lproj/Main.storyboardc/DashboardViewController.nib
+2021-08-31 11:38:01 +0000  copying file ./Base.lproj/Main.storyboardc/KJa-BW-dVH-view-BbS-wI-l61.nib ... 
+2021-08-31 11:38:01 +0000  6949 bytes for ./Base.lproj/Main.storyboardc/KJa-BW-dVH-view-BbS-wI-l61.nib
+2021-08-31 11:38:01 +0000  copying file ./Base.lproj/Main.storyboardc/TBC.nib ... 
+2021-08-31 11:38:01 +0000  1656 bytes for ./Base.lproj/Main.storyboardc/TBC.nib
+copying file ./Base.lproj/Main.storyboardc/Info.plist ... 
+2021-08-31 11:38:01 +0000  577 bytes for ./Base.lproj/Main.storyboardc/Info.plist
+2021-08-31 11:38:01 +0000  copying file ./Base.lproj/Main.storyboardc/PlaylistViewController.nib ... 
+2021-08-31 11:38:01 +0000  1034 bytes for ./Base.lproj/Main.storyboardc/PlaylistViewController.nib
+2021-08-31 11:38:01 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2021-08-31 11:38:01 +0000  1197 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2021-08-31 11:38:01 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2021-08-31 11:38:01 +0000  896 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2021-08-31 11:38:01 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2021-08-31 11:38:01 +0000  258 bytes for ./Base.lproj/LaunchScreen.storyboardc/Info.plist
+copying file ./Songs.momd/VersionInfo.plist ... 
+2021-08-31 11:38:01 +0000  198 bytes for ./Songs.momd/VersionInfo.plist
+2021-08-31 11:38:01 +0000  copying file ./Songs.momd/HostSongs.mom ... 
+2021-08-31 11:38:01 +0000  2677 bytes for ./Songs.momd/HostSongs.mom
+2021-08-31 11:38:01 +0000  copying file ./DashboardTableViewCell.nib ... 
+2021-08-31 11:38:01 +0000  5526 bytes for ./DashboardTableViewCell.nib
+2021-08-31 11:38:01 +0000  copying file ./Assets.car ... 
+2021-08-31 11:38:01 +0000  108976 bytes for ./Assets.car
+2021-08-31 11:38:01 +0000  copying file ./AppIcon76x76@2x~ipad.png ... 
+2021-08-31 11:38:01 +0000  4405 bytes for ./AppIcon76x76@2x~ipad.png
+2021-08-31 11:38:01 +0000  copying file ./Frameworks/SocketIO.framework/_CodeSignature/CodeResources ... 
+2021-08-31 11:38:01 +0000  1798 bytes for ./Frameworks/SocketIO.framework/_CodeSignature/CodeResources
+2021-08-31 11:38:01 +0000  copying file ./Frameworks/SocketIO.framework/SocketIO ... 
+2021-08-31 11:38:01 +0000  2528320 bytes for ./Frameworks/SocketIO.framework/SocketIO
+copying file ./Frameworks/SocketIO.framework/Info.plist ... 
+2021-08-31 11:38:01 +0000  740 bytes for ./Frameworks/SocketIO.framework/Info.plist
+2021-08-31 11:38:01 +0000  copying file ./Frameworks/Starscream.framework/_CodeSignature/CodeResources ... 
+2021-08-31 11:38:01 +0000  1798 bytes for ./Frameworks/Starscream.framework/_CodeSignature/CodeResources
+2021-08-31 11:38:01 +0000  copying file ./Frameworks/Starscream.framework/Starscream ... 
+2021-08-31 11:38:01 +0000  2109552 bytes for ./Frameworks/Starscream.framework/Starscream
+2021-08-31 11:38:01 +0000  copying file ./Frameworks/Starscream.framework/Info.plist ... 
+742 bytes for ./Frameworks/Starscream.framework/Info.plist
+copying file ./Frameworks/IQKeyboardManager.framework/_CodeSignature/CodeResources ... 
+2021-08-31 11:38:01 +0000  1798 bytes for ./Frameworks/IQKeyboardManager.framework/_CodeSignature/CodeResources
+2021-08-31 11:38:01 +0000  copying file ./Frameworks/IQKeyboardManager.framework/IQKeyboardManager ... 
+2021-08-31 11:38:01 +0000  1152112 bytes for ./Frameworks/IQKeyboardManager.framework/IQKeyboardManager
+2021-08-31 11:38:01 +0000  copying file ./Frameworks/IQKeyboardManager.framework/Info.plist ... 
+758 bytes for ./Frameworks/IQKeyboardManager.framework/Info.plist
+2021-08-31 11:38:01 +0000  copying file ./Frameworks/IQKeyboardManagerSwift.framework/_CodeSignature/CodeResources ... 
+2021-08-31 11:38:01 +0000  1798 bytes for ./Frameworks/IQKeyboardManagerSwift.framework/_CodeSignature/CodeResources
+2021-08-31 11:38:01 +0000  copying file ./Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManagerSwift ... 
+2021-08-31 11:38:01 +0000  2649680 bytes for ./Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManagerSwift
+2021-08-31 11:38:01 +0000  copying file ./Frameworks/IQKeyboardManagerSwift.framework/Info.plist ... 
+768 bytes for ./Frameworks/IQKeyboardManagerSwift.framework/Info.plist
+copying file ./embedded.mobileprovision ... 
+2021-08-31 11:38:01 +0000  16443 bytes for ./embedded.mobileprovision
+copying file ./Info.plist ... 
+2021-08-31 11:38:01 +0000  1904 bytes for ./Info.plist
+2021-08-31 11:38:01 +0000  copying file ./SearchResultTableViewCell.nib ... 
+2021-08-31 11:38:01 +0000  4106 bytes for ./SearchResultTableViewCell.nib
+2021-08-31 11:38:01 +0000  copying file ./PkgInfo ... 
+2021-08-31 11:38:01 +0000  8 bytes for ./PkgInfo
+2021-08-31 11:38:01 +0000  /usr/bin/ditto exited with 0
+2021-08-31 11:38:01 +0000  Processing step: IDEDistributionEmbedProfileStep
+2021-08-31 11:38:01 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f9c96834460; bundleID='org.cocoapods.IQKeyboardManager', path='<DVTFilePath:0x7f9c95390ea0:'/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/Products/Applications/NextJAM.app/Frameworks/IQKeyboardManager.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f9cb3a563f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9cb6374c90; name='Apple Development: Mandeep Kumar (GKBAW4TT5N)', hash='81BC46BAF9B4F99871B1F665AD5569C7A544A360', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9cc8e200d0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-08-30 09:22:32 +0000''>', entitlements='(null)', teamID='3AXPA6WL7G', identifier='org.cocoapods.IQKeyboardManager', executablePath='<DVTFilePath:0x7f9cb65c5140:'/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/Products/Applications/NextJAM.app/Frameworks/IQKeyboardManager.framework/IQKeyboardManager'>', hardenedRuntime='0'>'>
+2021-08-31 11:38:01 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f9c953d0640; bundleID='org.cocoapods.IQKeyboardManagerSwift', path='<DVTFilePath:0x7f9cb45d0ef0:'/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/Products/Applications/NextJAM.app/Frameworks/IQKeyboardManagerSwift.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f9c9820d0a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9c99673f10; name='Apple Development: Mandeep Kumar (GKBAW4TT5N)', hash='81BC46BAF9B4F99871B1F665AD5569C7A544A360', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9c99670320>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-08-30 09:22:32 +0000''>', entitlements='(null)', teamID='3AXPA6WL7G', identifier='org.cocoapods.IQKeyboardManagerSwift', executablePath='<DVTFilePath:0x7f9ccd5e2d20:'/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/Products/Applications/NextJAM.app/Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManagerSwift'>', hardenedRuntime='0'>'>
+2021-08-31 11:38:01 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f9c9658ee20; bundleID='org.cocoapods.SocketIO', path='<DVTFilePath:0x7f9c9827d810:'/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/Products/Applications/NextJAM.app/Frameworks/SocketIO.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f9c9826f3f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9c968381a0; name='Apple Development: Mandeep Kumar (GKBAW4TT5N)', hash='81BC46BAF9B4F99871B1F665AD5569C7A544A360', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9c968370e0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-08-30 09:22:32 +0000''>', entitlements='(null)', teamID='3AXPA6WL7G', identifier='org.cocoapods.SocketIO', executablePath='<DVTFilePath:0x7f9c95884640:'/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/Products/Applications/NextJAM.app/Frameworks/SocketIO.framework/SocketIO'>', hardenedRuntime='0'>'>
+2021-08-31 11:38:01 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f9c96599fc0; bundleID='org.cocoapods.Starscream', path='<DVTFilePath:0x7f9c98147870:'/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/Products/Applications/NextJAM.app/Frameworks/Starscream.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f9c97b9d3b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9c968381a0; name='Apple Development: Mandeep Kumar (GKBAW4TT5N)', hash='81BC46BAF9B4F99871B1F665AD5569C7A544A360', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9c968370e0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-08-30 09:22:32 +0000''>', entitlements='(null)', teamID='3AXPA6WL7G', identifier='org.cocoapods.Starscream', executablePath='<DVTFilePath:0x7f9cce4dba10:'/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/Products/Applications/NextJAM.app/Frameworks/Starscream.framework/Starscream'>', hardenedRuntime='0'>'>
+2021-08-31 11:38:01 +0000  Processing step: IDEDistributionInfoPlistStep
+2021-08-31 11:38:01 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-08-31 11:38:01 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-08-31 11:38:01 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-08-31 11:38:01 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-08-31 11:38:01 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-08-31 11:38:01 +0000  Processing step: IDEDistributionItemRemovalStep
+2021-08-31 11:38:01 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2021-08-31 11:38:01 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2021-08-31 11:38:01 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2021-08-31 11:38:01 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2021-08-31 11:38:01 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2021-08-31 11:38:01 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/Root/Payload/NextJAM.app/Frameworks/IQKeyboardManager.framework/IQKeyboardManager' '-l' '-o' '/var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/Root/Payload/NextJAM.app/Frameworks/IQKeyboardManager.framework/IQKeyboardManager'
+2021-08-31 11:38:01 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2021-08-31 11:38:01 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/Root/Payload/NextJAM.app/Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManagerSwift' '-l' '-o' '/var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/Root/Payload/NextJAM.app/Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManagerSwift'
+2021-08-31 11:38:01 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2021-08-31 11:38:01 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/Root/Payload/NextJAM.app/Frameworks/SocketIO.framework/SocketIO' '-l' '-o' '/var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/Root/Payload/NextJAM.app/Frameworks/SocketIO.framework/SocketIO'
+2021-08-31 11:38:01 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2021-08-31 11:38:01 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/Root/Payload/NextJAM.app/Frameworks/Starscream.framework/Starscream' '-l' '-o' '/var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/Root/Payload/NextJAM.app/Frameworks/Starscream.framework/Starscream'
+2021-08-31 11:38:01 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2021-08-31 11:38:01 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/Root/Payload/NextJAM.app/NextJAM' '-l' '-o' '/var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/Root/Payload/NextJAM.app/NextJAM'
+2021-08-31 11:38:01 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2021-08-31 11:38:01 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2021-08-31 11:38:01 +0000  Running /usr/bin/ditto '-V' '/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/BCSymbolMaps/C9459109-5279-3356-8684-B339E5FD7B06.bcsymbolmap' '/var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/Root/BCSymbolMaps/C9459109-5279-3356-8684-B339E5FD7B06.bcsymbolmap'
+2021-08-31 11:38:01 +0000  >>> Copying /Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/BCSymbolMaps/C9459109-5279-3356-8684-B339E5FD7B06.bcsymbolmap 
+2021-08-31 11:38:01 +0000  copying file ./C9459109-5279-3356-8684-B339E5FD7B06.bcsymbolmap ... 
+2021-08-31 11:38:01 +0000  57120 bytes for ./C9459109-5279-3356-8684-B339E5FD7B06.bcsymbolmap
+2021-08-31 11:38:01 +0000  /usr/bin/ditto exited with 0
+2021-08-31 11:38:01 +0000  Running /usr/bin/ditto '-V' '/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/BCSymbolMaps/6C083454-7765-33E7-BF93-2D0EEA4F93B1.bcsymbolmap' '/var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/Root/BCSymbolMaps/6C083454-7765-33E7-BF93-2D0EEA4F93B1.bcsymbolmap'
+2021-08-31 11:38:01 +0000  >>> Copying /Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/BCSymbolMaps/6C083454-7765-33E7-BF93-2D0EEA4F93B1.bcsymbolmap 
+2021-08-31 11:38:01 +0000  copying file ./6C083454-7765-33E7-BF93-2D0EEA4F93B1.bcsymbolmap ... 
+2021-08-31 11:38:01 +0000  209247 bytes for ./6C083454-7765-33E7-BF93-2D0EEA4F93B1.bcsymbolmap
+2021-08-31 11:38:01 +0000  /usr/bin/ditto exited with 0
+2021-08-31 11:38:01 +0000  Running /usr/bin/ditto '-V' '/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/BCSymbolMaps/188329D7-AC3A-36A4-8C6F-2F41385F686D.bcsymbolmap' '/var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/Root/BCSymbolMaps/188329D7-AC3A-36A4-8C6F-2F41385F686D.bcsymbolmap'
+2021-08-31 11:38:01 +0000  >>> Copying /Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/BCSymbolMaps/188329D7-AC3A-36A4-8C6F-2F41385F686D.bcsymbolmap 
+2021-08-31 11:38:01 +0000  copying file ./188329D7-AC3A-36A4-8C6F-2F41385F686D.bcsymbolmap ... 
+2021-08-31 11:38:01 +0000  195387 bytes for ./188329D7-AC3A-36A4-8C6F-2F41385F686D.bcsymbolmap
+2021-08-31 11:38:01 +0000  /usr/bin/ditto exited with 0
+2021-08-31 11:38:01 +0000  Running /usr/bin/ditto '-V' '/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/BCSymbolMaps/AB411598-5101-353A-A727-F6607EC31AC6.bcsymbolmap' '/var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/Root/BCSymbolMaps/AB411598-5101-353A-A727-F6607EC31AC6.bcsymbolmap'
+2021-08-31 11:38:01 +0000  >>> Copying /Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/BCSymbolMaps/AB411598-5101-353A-A727-F6607EC31AC6.bcsymbolmap 
+2021-08-31 11:38:01 +0000  copying file ./AB411598-5101-353A-A727-F6607EC31AC6.bcsymbolmap ... 
+2021-08-31 11:38:01 +0000  162479 bytes for ./AB411598-5101-353A-A727-F6607EC31AC6.bcsymbolmap
+2021-08-31 11:38:01 +0000  /usr/bin/ditto exited with 0
+2021-08-31 11:38:01 +0000  Running /usr/bin/ditto '-V' '/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/BCSymbolMaps/CFC31CE1-3D84-3C04-95A0-E30FD65A2384.bcsymbolmap' '/var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/Root/BCSymbolMaps/CFC31CE1-3D84-3C04-95A0-E30FD65A2384.bcsymbolmap'
+2021-08-31 11:38:01 +0000  >>> Copying /Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/BCSymbolMaps/CFC31CE1-3D84-3C04-95A0-E30FD65A2384.bcsymbolmap 
+2021-08-31 11:38:01 +0000  copying file ./CFC31CE1-3D84-3C04-95A0-E30FD65A2384.bcsymbolmap ... 
+2021-08-31 11:38:01 +0000  264562 bytes for ./CFC31CE1-3D84-3C04-95A0-E30FD65A2384.bcsymbolmap
+2021-08-31 11:38:01 +0000  /usr/bin/ditto exited with 0
+2021-08-31 11:38:01 +0000  Processing step: IDEDistributionSymbolsStep
+2021-08-31 11:38:01 +0000  Excluding symbols for IQKeyboardManager.framework
+2021-08-31 11:38:01 +0000  Excluding symbols for IQKeyboardManagerSwift.framework
+2021-08-31 11:38:01 +0000  Excluding symbols for SocketIO.framework
+2021-08-31 11:38:01 +0000  Excluding symbols for Starscream.framework
+2021-08-31 11:38:01 +0000  Excluding symbols for NextJAM.app
+2021-08-31 11:38:01 +0000  Processing step: IDEDistributionCopyAppleProvidedContentStep
+2021-08-31 11:38:01 +0000  Processing step: IDEDistributionAppThinningStep
+2021-08-31 11:38:01 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2021-08-31 11:38:01 +0000  Processing step: IDEDistributionArchThinningStep
+2021-08-31 11:38:01 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/Root/Payload/NextJAM.app/Frameworks/IQKeyboardManager.framework/IQKeyboardManager' '-verify_arch' 'arm64e'
+2021-08-31 11:38:01 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-08-31 11:38:01 +0000  Skipping architecture thinning for item "IQKeyboardManager" because arch "arm64e" wasn't found
+2021-08-31 11:38:01 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/Root/Payload/NextJAM.app/Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManagerSwift' '-verify_arch' 'arm64e'
+2021-08-31 11:38:01 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-08-31 11:38:01 +0000  Skipping architecture thinning for item "IQKeyboardManagerSwift" because arch "arm64e" wasn't found
+2021-08-31 11:38:01 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/Root/Payload/NextJAM.app/Frameworks/SocketIO.framework/SocketIO' '-verify_arch' 'arm64e'
+2021-08-31 11:38:01 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-08-31 11:38:01 +0000  Skipping architecture thinning for item "SocketIO" because arch "arm64e" wasn't found
+2021-08-31 11:38:01 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/Root/Payload/NextJAM.app/Frameworks/Starscream.framework/Starscream' '-verify_arch' 'arm64e'
+2021-08-31 11:38:01 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-08-31 11:38:01 +0000  Skipping architecture thinning for item "Starscream" because arch "arm64e" wasn't found
+2021-08-31 11:38:01 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/Root/Payload/NextJAM.app/NextJAM' '-verify_arch' 'arm64e'
+2021-08-31 11:38:01 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-08-31 11:38:01 +0000  Skipping architecture thinning for item "NextJAM" because arch "arm64e" wasn't found
+2021-08-31 11:38:01 +0000  Processing step: IDEDistributionODRStep
+2021-08-31 11:38:01 +0000  Processing step: IDEDistributionStripXattrsStep
+2021-08-31 11:38:01 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f9c96834460; bundleID='org.cocoapods.IQKeyboardManager', path='<DVTFilePath:0x7f9c95390ea0:'/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/Products/Applications/NextJAM.app/Frameworks/IQKeyboardManager.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f9cb3a563f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9c96eff990; name='Apple Development: Mandeep Kumar (GKBAW4TT5N)', hash='81BC46BAF9B4F99871B1F665AD5569C7A544A360', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9c96804540>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-08-30 09:22:32 +0000''>', entitlements='(null)', teamID='3AXPA6WL7G', identifier='org.cocoapods.IQKeyboardManager', executablePath='<DVTFilePath:0x7f9cb65c5140:'/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/Products/Applications/NextJAM.app/Frameworks/IQKeyboardManager.framework/IQKeyboardManager'>', hardenedRuntime='0'>'>
+2021-08-31 11:38:01 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f9c953d0640; bundleID='org.cocoapods.IQKeyboardManagerSwift', path='<DVTFilePath:0x7f9cb45d0ef0:'/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/Products/Applications/NextJAM.app/Frameworks/IQKeyboardManagerSwift.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f9c9820d0a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9c96e687b0; name='Apple Development: Mandeep Kumar (GKBAW4TT5N)', hash='81BC46BAF9B4F99871B1F665AD5569C7A544A360', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9c96836d10>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-08-30 09:22:32 +0000''>', entitlements='(null)', teamID='3AXPA6WL7G', identifier='org.cocoapods.IQKeyboardManagerSwift', executablePath='<DVTFilePath:0x7f9ccd5e2d20:'/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/Products/Applications/NextJAM.app/Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManagerSwift'>', hardenedRuntime='0'>'>
+2021-08-31 11:38:01 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f9c9658ee20; bundleID='org.cocoapods.SocketIO', path='<DVTFilePath:0x7f9c9827d810:'/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/Products/Applications/NextJAM.app/Frameworks/SocketIO.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f9c9826f3f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9c982f53e0; name='Apple Development: Mandeep Kumar (GKBAW4TT5N)', hash='81BC46BAF9B4F99871B1F665AD5569C7A544A360', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9c99640960>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-08-30 09:22:32 +0000''>', entitlements='(null)', teamID='3AXPA6WL7G', identifier='org.cocoapods.SocketIO', executablePath='<DVTFilePath:0x7f9c95884640:'/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/Products/Applications/NextJAM.app/Frameworks/SocketIO.framework/SocketIO'>', hardenedRuntime='0'>'>
+2021-08-31 11:38:01 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f9c96599fc0; bundleID='org.cocoapods.Starscream', path='<DVTFilePath:0x7f9c98147870:'/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/Products/Applications/NextJAM.app/Frameworks/Starscream.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f9c97b9d3b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9c96e27040; name='Apple Development: Mandeep Kumar (GKBAW4TT5N)', hash='81BC46BAF9B4F99871B1F665AD5569C7A544A360', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9c96804540>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-08-30 09:22:32 +0000''>', entitlements='(null)', teamID='3AXPA6WL7G', identifier='org.cocoapods.Starscream', executablePath='<DVTFilePath:0x7f9cce4dba10:'/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/Products/Applications/NextJAM.app/Frameworks/Starscream.framework/Starscream'>', hardenedRuntime='0'>'>
+2021-08-31 11:38:01 +0000  Running /usr/bin/xattr '-crs' '/var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/Root/Payload/NextJAM.app'
+2021-08-31 11:38:02 +0000  /usr/bin/xattr exited with 0
+2021-08-31 11:38:02 +0000  Processing step: IDEDistributionCodesignStep
+2021-08-31 11:38:02 +0000  Entitlements for <IDEDistributionItem: 0x7f9c96834460; bundleID='org.cocoapods.IQKeyboardManager', path='<DVTFilePath:0x7f9c95390ea0:'/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/Products/Applications/NextJAM.app/Frameworks/IQKeyboardManager.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f9cb3a563f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9c982df5a0; name='Apple Development: Mandeep Kumar (GKBAW4TT5N)', hash='81BC46BAF9B4F99871B1F665AD5569C7A544A360', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9c9680a8d0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-08-30 09:22:32 +0000''>', entitlements='(null)', teamID='3AXPA6WL7G', identifier='org.cocoapods.IQKeyboardManager', executablePath='<DVTFilePath:0x7f9cb65c5140:'/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/Products/Applications/NextJAM.app/Frameworks/IQKeyboardManager.framework/IQKeyboardManager'>', hardenedRuntime='0'>'>: {
+}
+2021-08-31 11:38:02 +0000  Entitlements for <IDEDistributionItem: 0x7f9c96834460; bundleID='org.cocoapods.IQKeyboardManager', path='<DVTFilePath:0x7f9c95390ea0:'/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/Products/Applications/NextJAM.app/Frameworks/IQKeyboardManager.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f9cb3a563f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9c95615f50; name='Apple Development: Mandeep Kumar (GKBAW4TT5N)', hash='81BC46BAF9B4F99871B1F665AD5569C7A544A360', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9c96574880>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-08-30 09:22:32 +0000''>', entitlements='(null)', teamID='3AXPA6WL7G', identifier='org.cocoapods.IQKeyboardManager', executablePath='<DVTFilePath:0x7f9cb65c5140:'/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/Products/Applications/NextJAM.app/Frameworks/IQKeyboardManager.framework/IQKeyboardManager'>', hardenedRuntime='0'>'> are: {
+}
+2021-08-31 11:38:02 +0000  Writing entitlements for <IDEDistributionItem: 0x7f9c96834460; bundleID='org.cocoapods.IQKeyboardManager', path='<DVTFilePath:0x7f9c95390ea0:'/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/Products/Applications/NextJAM.app/Frameworks/IQKeyboardManager.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f9cb3a563f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9c969dcc10; name='Apple Development: Mandeep Kumar (GKBAW4TT5N)', hash='81BC46BAF9B4F99871B1F665AD5569C7A544A360', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9cb74f97d0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-08-30 09:22:32 +0000''>', entitlements='(null)', teamID='3AXPA6WL7G', identifier='org.cocoapods.IQKeyboardManager', executablePath='<DVTFilePath:0x7f9cb65c5140:'/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/Products/Applications/NextJAM.app/Frameworks/IQKeyboardManager.framework/IQKeyboardManager'>', hardenedRuntime='0'>'> to: /var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/entitlements~~~8BCfoo
+2021-08-31 11:38:02 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '13706AA99037CC6F7895B8507E928AF2F7FBF4F5' '--entitlements' '/var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/entitlements~~~8BCfoo' '--preserve-metadata=identifier,flags,runtime' '/var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/Root/Payload/NextJAM.app/Frameworks/IQKeyboardManager.framework'
+2021-08-31 11:38:02 +0000  /var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/Root/Payload/NextJAM.app/Frameworks/IQKeyboardManager.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.IQKeyboardManager]
+2021-08-31 11:38:02 +0000  /usr/bin/codesign exited with 0
+2021-08-31 11:38:02 +0000  Entitlements for <IDEDistributionItem: 0x7f9c953d0640; bundleID='org.cocoapods.IQKeyboardManagerSwift', path='<DVTFilePath:0x7f9cb45d0ef0:'/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/Products/Applications/NextJAM.app/Frameworks/IQKeyboardManagerSwift.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f9c9820d0a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9cb4bc4710; name='Apple Development: Mandeep Kumar (GKBAW4TT5N)', hash='81BC46BAF9B4F99871B1F665AD5569C7A544A360', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9cb748f140>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-08-30 09:22:32 +0000''>', entitlements='(null)', teamID='3AXPA6WL7G', identifier='org.cocoapods.IQKeyboardManagerSwift', executablePath='<DVTFilePath:0x7f9ccd5e2d20:'/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/Products/Applications/NextJAM.app/Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManagerSwift'>', hardenedRuntime='0'>'>: {
+}
+2021-08-31 11:38:02 +0000  Entitlements for <IDEDistributionItem: 0x7f9c953d0640; bundleID='org.cocoapods.IQKeyboardManagerSwift', path='<DVTFilePath:0x7f9cb45d0ef0:'/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/Products/Applications/NextJAM.app/Frameworks/IQKeyboardManagerSwift.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f9c9820d0a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9c991a3990; name='Apple Development: Mandeep Kumar (GKBAW4TT5N)', hash='81BC46BAF9B4F99871B1F665AD5569C7A544A360', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9c94360410>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-08-30 09:22:32 +0000''>', entitlements='(null)', teamID='3AXPA6WL7G', identifier='org.cocoapods.IQKeyboardManagerSwift', executablePath='<DVTFilePath:0x7f9ccd5e2d20:'/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/Products/Applications/NextJAM.app/Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManagerSwift'>', hardenedRuntime='0'>'> are: {
+}
+2021-08-31 11:38:02 +0000  Writing entitlements for <IDEDistributionItem: 0x7f9c953d0640; bundleID='org.cocoapods.IQKeyboardManagerSwift', path='<DVTFilePath:0x7f9cb45d0ef0:'/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/Products/Applications/NextJAM.app/Frameworks/IQKeyboardManagerSwift.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f9c9820d0a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9c96967fd0; name='Apple Development: Mandeep Kumar (GKBAW4TT5N)', hash='81BC46BAF9B4F99871B1F665AD5569C7A544A360', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9cb74715b0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-08-30 09:22:32 +0000''>', entitlements='(null)', teamID='3AXPA6WL7G', identifier='org.cocoapods.IQKeyboardManagerSwift', executablePath='<DVTFilePath:0x7f9ccd5e2d20:'/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/Products/Applications/NextJAM.app/Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManagerSwift'>', hardenedRuntime='0'>'> to: /var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/entitlements~~~pNeOm6
+2021-08-31 11:38:02 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '13706AA99037CC6F7895B8507E928AF2F7FBF4F5' '--entitlements' '/var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/entitlements~~~pNeOm6' '--preserve-metadata=identifier,flags,runtime' '/var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/Root/Payload/NextJAM.app/Frameworks/IQKeyboardManagerSwift.framework'
+2021-08-31 11:38:02 +0000  /var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/Root/Payload/NextJAM.app/Frameworks/IQKeyboardManagerSwift.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.IQKeyboardManagerSwift]
+2021-08-31 11:38:02 +0000  /usr/bin/codesign exited with 0
+2021-08-31 11:38:02 +0000  Entitlements for <IDEDistributionItem: 0x7f9c9658ee20; bundleID='org.cocoapods.SocketIO', path='<DVTFilePath:0x7f9c9827d810:'/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/Products/Applications/NextJAM.app/Frameworks/SocketIO.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f9c9826f3f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9c92f76070; name='Apple Development: Mandeep Kumar (GKBAW4TT5N)', hash='81BC46BAF9B4F99871B1F665AD5569C7A544A360', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9cb72c68a0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-08-30 09:22:32 +0000''>', entitlements='(null)', teamID='3AXPA6WL7G', identifier='org.cocoapods.SocketIO', executablePath='<DVTFilePath:0x7f9c95884640:'/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/Products/Applications/NextJAM.app/Frameworks/SocketIO.framework/SocketIO'>', hardenedRuntime='0'>'>: {
+}
+2021-08-31 11:38:02 +0000  Entitlements for <IDEDistributionItem: 0x7f9c9658ee20; bundleID='org.cocoapods.SocketIO', path='<DVTFilePath:0x7f9c9827d810:'/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/Products/Applications/NextJAM.app/Frameworks/SocketIO.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f9c9826f3f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9cb6374c90; name='Apple Development: Mandeep Kumar (GKBAW4TT5N)', hash='81BC46BAF9B4F99871B1F665AD5569C7A544A360', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9c943fcdc0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-08-30 09:22:32 +0000''>', entitlements='(null)', teamID='3AXPA6WL7G', identifier='org.cocoapods.SocketIO', executablePath='<DVTFilePath:0x7f9c95884640:'/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/Products/Applications/NextJAM.app/Frameworks/SocketIO.framework/SocketIO'>', hardenedRuntime='0'>'> are: {
+}
+2021-08-31 11:38:02 +0000  Writing entitlements for <IDEDistributionItem: 0x7f9c9658ee20; bundleID='org.cocoapods.SocketIO', path='<DVTFilePath:0x7f9c9827d810:'/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/Products/Applications/NextJAM.app/Frameworks/SocketIO.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f9c9826f3f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9c92fb2a70; name='Apple Development: Mandeep Kumar (GKBAW4TT5N)', hash='81BC46BAF9B4F99871B1F665AD5569C7A544A360', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9cb72b5ef0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-08-30 09:22:32 +0000''>', entitlements='(null)', teamID='3AXPA6WL7G', identifier='org.cocoapods.SocketIO', executablePath='<DVTFilePath:0x7f9c95884640:'/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/Products/Applications/NextJAM.app/Frameworks/SocketIO.framework/SocketIO'>', hardenedRuntime='0'>'> to: /var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/entitlements~~~RZwcVt
+2021-08-31 11:38:02 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '13706AA99037CC6F7895B8507E928AF2F7FBF4F5' '--entitlements' '/var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/entitlements~~~RZwcVt' '--preserve-metadata=identifier,flags,runtime' '/var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/Root/Payload/NextJAM.app/Frameworks/SocketIO.framework'
+2021-08-31 11:38:02 +0000  /var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/Root/Payload/NextJAM.app/Frameworks/SocketIO.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.SocketIO]
+2021-08-31 11:38:02 +0000  /usr/bin/codesign exited with 0
+2021-08-31 11:38:02 +0000  Entitlements for <IDEDistributionItem: 0x7f9c96599fc0; bundleID='org.cocoapods.Starscream', path='<DVTFilePath:0x7f9c98147870:'/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/Products/Applications/NextJAM.app/Frameworks/Starscream.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f9c97b9d3b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9c96a4ec90; name='Apple Development: Mandeep Kumar (GKBAW4TT5N)', hash='81BC46BAF9B4F99871B1F665AD5569C7A544A360', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9cc724d930>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-08-30 09:22:32 +0000''>', entitlements='(null)', teamID='3AXPA6WL7G', identifier='org.cocoapods.Starscream', executablePath='<DVTFilePath:0x7f9cce4dba10:'/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/Products/Applications/NextJAM.app/Frameworks/Starscream.framework/Starscream'>', hardenedRuntime='0'>'>: {
+}
+2021-08-31 11:38:02 +0000  Entitlements for <IDEDistributionItem: 0x7f9c96599fc0; bundleID='org.cocoapods.Starscream', path='<DVTFilePath:0x7f9c98147870:'/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/Products/Applications/NextJAM.app/Frameworks/Starscream.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f9c97b9d3b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9cb6374c90; name='Apple Development: Mandeep Kumar (GKBAW4TT5N)', hash='81BC46BAF9B4F99871B1F665AD5569C7A544A360', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9c943e4e00>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-08-30 09:22:32 +0000''>', entitlements='(null)', teamID='3AXPA6WL7G', identifier='org.cocoapods.Starscream', executablePath='<DVTFilePath:0x7f9cce4dba10:'/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/Products/Applications/NextJAM.app/Frameworks/Starscream.framework/Starscream'>', hardenedRuntime='0'>'> are: {
+}
+2021-08-31 11:38:02 +0000  Writing entitlements for <IDEDistributionItem: 0x7f9c96599fc0; bundleID='org.cocoapods.Starscream', path='<DVTFilePath:0x7f9c98147870:'/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/Products/Applications/NextJAM.app/Frameworks/Starscream.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f9c97b9d3b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9c943fb6b0; name='Apple Development: Mandeep Kumar (GKBAW4TT5N)', hash='81BC46BAF9B4F99871B1F665AD5569C7A544A360', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9c9434f9a0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-08-30 09:22:32 +0000''>', entitlements='(null)', teamID='3AXPA6WL7G', identifier='org.cocoapods.Starscream', executablePath='<DVTFilePath:0x7f9cce4dba10:'/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/Products/Applications/NextJAM.app/Frameworks/Starscream.framework/Starscream'>', hardenedRuntime='0'>'> to: /var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/entitlements~~~Jf85LH
+2021-08-31 11:38:02 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '13706AA99037CC6F7895B8507E928AF2F7FBF4F5' '--entitlements' '/var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/entitlements~~~Jf85LH' '--preserve-metadata=identifier,flags,runtime' '/var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/Root/Payload/NextJAM.app/Frameworks/Starscream.framework'
+2021-08-31 11:38:02 +0000  /var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/Root/Payload/NextJAM.app/Frameworks/Starscream.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.Starscream]
+2021-08-31 11:38:02 +0000  /usr/bin/codesign exited with 0
+2021-08-31 11:38:02 +0000  Entitlements for <IDEDistributionItem: 0x7f9c982fcb60; bundleID='com.nextJamLLC.NextJam', path='<DVTFilePath:0x7f9cb44dcaf0:'/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/Products/Applications/NextJAM.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f9c93e1a270; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9c98d7c060; name='Apple Development: Mandeep Kumar (GKBAW4TT5N)', hash='81BC46BAF9B4F99871B1F665AD5569C7A544A360', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9cb748f140>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-08-30 09:22:32 +0000''>', entitlements='{
+    "application-identifier" = "3AXPA6WL7G.com.nextJamLLC.NextJam";
+    "com.apple.developer.team-identifier" = 3AXPA6WL7G;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "3AXPA6WL7G.com.nextJamLLC.NextJam"
+    );
+}', teamID='3AXPA6WL7G', identifier='com.nextJamLLC.NextJam', executablePath='<DVTFilePath:0x7f9c956ee0e0:'/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/Products/Applications/NextJAM.app/NextJAM'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "3AXPA6WL7G.com.nextJamLLC.NextJam";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = 3AXPA6WL7G;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "3AXPA6WL7G.com.nextJamLLC.NextJam"
+    );
+}
+2021-08-31 11:38:02 +0000  Entitlements for <IDEDistributionItem: 0x7f9c982fcb60; bundleID='com.nextJamLLC.NextJam', path='<DVTFilePath:0x7f9cb44dcaf0:'/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/Products/Applications/NextJAM.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f9c93e1a270; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9c95b7e670; name='Apple Development: Mandeep Kumar (GKBAW4TT5N)', hash='81BC46BAF9B4F99871B1F665AD5569C7A544A360', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9c9431fd50>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-08-30 09:22:32 +0000''>', entitlements='{
+    "application-identifier" = "3AXPA6WL7G.com.nextJamLLC.NextJam";
+    "com.apple.developer.team-identifier" = 3AXPA6WL7G;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "3AXPA6WL7G.com.nextJamLLC.NextJam"
+    );
+}', teamID='3AXPA6WL7G', identifier='com.nextJamLLC.NextJam', executablePath='<DVTFilePath:0x7f9c956ee0e0:'/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/Products/Applications/NextJAM.app/NextJAM'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "3AXPA6WL7G.com.nextJamLLC.NextJam";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = 3AXPA6WL7G;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "3AXPA6WL7G.com.nextJamLLC.NextJam"
+    );
+}
+2021-08-31 11:38:02 +0000  Writing entitlements for <IDEDistributionItem: 0x7f9c982fcb60; bundleID='com.nextJamLLC.NextJam', path='<DVTFilePath:0x7f9cb44dcaf0:'/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/Products/Applications/NextJAM.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f9c93e1a270; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9c9434c020; name='Apple Development: Mandeep Kumar (GKBAW4TT5N)', hash='81BC46BAF9B4F99871B1F665AD5569C7A544A360', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9c9681de90>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-08-30 09:22:32 +0000''>', entitlements='{
+    "application-identifier" = "3AXPA6WL7G.com.nextJamLLC.NextJam";
+    "com.apple.developer.team-identifier" = 3AXPA6WL7G;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "3AXPA6WL7G.com.nextJamLLC.NextJam"
+    );
+}', teamID='3AXPA6WL7G', identifier='com.nextJamLLC.NextJam', executablePath='<DVTFilePath:0x7f9c956ee0e0:'/Users/apple/Library/Developer/Xcode/Archives/2021-08-31/NextJAM 31-08-21, 5.07 PM.xcarchive/Products/Applications/NextJAM.app/NextJAM'>', hardenedRuntime='0'>'> to: /var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/entitlements~~~HoMW0L
+2021-08-31 11:38:02 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '13706AA99037CC6F7895B8507E928AF2F7FBF4F5' '--entitlements' '/var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/entitlements~~~HoMW0L' '--preserve-metadata=identifier,flags,runtime' '/var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/Root/Payload/NextJAM.app'
+2021-08-31 11:38:02 +0000  /var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/Root/Payload/NextJAM.app: signed app bundle with Mach-O thin (arm64) [com.nextJamLLC.NextJam]
+2021-08-31 11:38:02 +0000  /usr/bin/codesign exited with 0
+2021-08-31 11:38:02 +0000  Processing step: IDEDistributionZipODRItemStep
+2021-08-31 11:38:02 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-08-31 11:38:02 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-08-31 11:38:02 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-08-31 11:38:02 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-08-31 11:38:02 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-08-31 11:38:02 +0000  Processing step: IDEDistributionCreateIPAStep
+2021-08-31 11:38:02 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/Root' '/var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/Packages/NextJAM.ipa'
+2021-08-31 11:38:02 +0000  >>> Copying /var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/Root 
+2021-08-31 11:38:02 +0000  copying file ./BCSymbolMaps/188329D7-AC3A-36A4-8C6F-2F41385F686D.bcsymbolmap ... 
+2021-08-31 11:38:02 +0000  195387 bytes for ./BCSymbolMaps/188329D7-AC3A-36A4-8C6F-2F41385F686D.bcsymbolmap
+2021-08-31 11:38:02 +0000  copying file ./BCSymbolMaps/AB411598-5101-353A-A727-F6607EC31AC6.bcsymbolmap ... 
+2021-08-31 11:38:02 +0000  162479 bytes for ./BCSymbolMaps/AB411598-5101-353A-A727-F6607EC31AC6.bcsymbolmap
+2021-08-31 11:38:02 +0000  copying file ./BCSymbolMaps/6C083454-7765-33E7-BF93-2D0EEA4F93B1.bcsymbolmap ... 
+2021-08-31 11:38:02 +0000  209247 bytes for ./BCSymbolMaps/6C083454-7765-33E7-BF93-2D0EEA4F93B1.bcsymbolmap
+2021-08-31 11:38:02 +0000  copying file ./BCSymbolMaps/CFC31CE1-3D84-3C04-95A0-E30FD65A2384.bcsymbolmap ... 
+2021-08-31 11:38:02 +0000  264562 bytes for ./BCSymbolMaps/CFC31CE1-3D84-3C04-95A0-E30FD65A2384.bcsymbolmap
+2021-08-31 11:38:02 +0000  copying file ./BCSymbolMaps/C9459109-5279-3356-8684-B339E5FD7B06.bcsymbolmap ... 
+2021-08-31 11:38:02 +0000  57120 bytes for ./BCSymbolMaps/C9459109-5279-3356-8684-B339E5FD7B06.bcsymbolmap
+2021-08-31 11:38:02 +0000  copying file ./Payload/NextJAM.app/_CodeSignature/CodeResources ... 
+2021-08-31 11:38:02 +0000  12209 bytes for ./Payload/NextJAM.app/_CodeSignature/CodeResources
+2021-08-31 11:38:02 +0000  copying file ./Payload/NextJAM.app/AppIcon60x60@2x.png ... 
+2021-08-31 11:38:02 +0000  3439 bytes for ./Payload/NextJAM.app/AppIcon60x60@2x.png
+2021-08-31 11:38:02 +0000  copying file ./Payload/NextJAM.app/NextJAM ... 
+2021-08-31 11:38:02 +0000  1925296 bytes for ./Payload/NextJAM.app/NextJAM
+2021-08-31 11:38:02 +0000  copying file ./Payload/NextJAM.app/songTableViewCell.nib ... 
+2021-08-31 11:38:02 +0000  5173 bytes for ./Payload/NextJAM.app/songTableViewCell.nib
+2021-08-31 11:38:02 +0000  copying file ./Payload/NextJAM.app/Base.lproj/Main.storyboardc/PlayingSongViewController.nib ... 
+2021-08-31 11:38:02 +0000  1040 bytes for ./Payload/NextJAM.app/Base.lproj/Main.storyboardc/PlayingSongViewController.nib
+2021-08-31 11:38:02 +0000  copying file ./Payload/NextJAM.app/Base.lproj/Main.storyboardc/UINavigationController-D39-hl-J1T.nib ... 
+2021-08-31 11:38:02 +0000  1794 bytes for ./Payload/NextJAM.app/Base.lproj/Main.storyboardc/UINavigationController-D39-hl-J1T.nib
+2021-08-31 11:38:02 +0000  copying file ./Payload/NextJAM.app/Base.lproj/Main.storyboardc/wLU-HL-nPJ-view-Qmx-nJ-ToO.nib ... 
+2021-08-31 11:38:02 +0000  4800 bytes for ./Payload/NextJAM.app/Base.lproj/Main.storyboardc/wLU-HL-nPJ-view-Qmx-nJ-ToO.nib
+2021-08-31 11:38:02 +0000  copying file ./Payload/NextJAM.app/Base.lproj/Main.storyboardc/FHb-fq-eDe-view-dkg-b7-bPb.nib ... 
+2021-08-31 11:38:02 +0000  11697 bytes for ./Payload/NextJAM.app/Base.lproj/Main.storyboardc/FHb-fq-eDe-view-dkg-b7-bPb.nib
+2021-08-31 11:38:02 +0000  copying file ./Payload/NextJAM.app/Base.lproj/Main.storyboardc/LY6-af-WjV-view-T3G-rF-atG.nib ... 
+2021-08-31 11:38:02 +0000  6914 bytes for ./Payload/NextJAM.app/Base.lproj/Main.storyboardc/LY6-af-WjV-view-T3G-rF-atG.nib
+2021-08-31 11:38:02 +0000  copying file ./Payload/NextJAM.app/Base.lproj/Main.storyboardc/LoginViewController.nib ... 
+2021-08-31 11:38:02 +0000  1114 bytes for ./Payload/NextJAM.app/Base.lproj/Main.storyboardc/LoginViewController.nib
+copying file ./Payload/NextJAM.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2021-08-31 11:38:02 +0000  4448 bytes for ./Payload/NextJAM.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+2021-08-31 11:38:02 +0000  copying file ./Payload/NextJAM.app/Base.lproj/Main.storyboardc/SearchViewController.nib ... 
+2021-08-31 11:38:02 +0000  1138 bytes for ./Payload/NextJAM.app/Base.lproj/Main.storyboardc/SearchViewController.nib
+copying file ./Payload/NextJAM.app/Base.lproj/Main.storyboardc/DashboardViewController.nib ... 
+2021-08-31 11:38:02 +0000  1144 bytes for ./Payload/NextJAM.app/Base.lproj/Main.storyboardc/DashboardViewController.nib
+2021-08-31 11:38:02 +0000  copying file ./Payload/NextJAM.app/Base.lproj/Main.storyboardc/KJa-BW-dVH-view-BbS-wI-l61.nib ... 
+2021-08-31 11:38:02 +0000  6949 bytes for ./Payload/NextJAM.app/Base.lproj/Main.storyboardc/KJa-BW-dVH-view-BbS-wI-l61.nib
+2021-08-31 11:38:02 +0000  copying file ./Payload/NextJAM.app/Base.lproj/Main.storyboardc/TBC.nib ... 
+2021-08-31 11:38:02 +0000  1656 bytes for ./Payload/NextJAM.app/Base.lproj/Main.storyboardc/TBC.nib
+2021-08-31 11:38:02 +0000  copying file ./Payload/NextJAM.app/Base.lproj/Main.storyboardc/Info.plist ... 
+2021-08-31 11:38:02 +0000  577 bytes for ./Payload/NextJAM.app/Base.lproj/Main.storyboardc/Info.plist
+copying file ./Payload/NextJAM.app/Base.lproj/Main.storyboardc/PlaylistViewController.nib ... 
+2021-08-31 11:38:02 +0000  1034 bytes for ./Payload/NextJAM.app/Base.lproj/Main.storyboardc/PlaylistViewController.nib
+2021-08-31 11:38:02 +0000  copying file ./Payload/NextJAM.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2021-08-31 11:38:02 +0000  1197 bytes for ./Payload/NextJAM.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2021-08-31 11:38:02 +0000  copying file ./Payload/NextJAM.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+896 bytes for ./Payload/NextJAM.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2021-08-31 11:38:02 +0000  copying file ./Payload/NextJAM.app/Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2021-08-31 11:38:02 +0000  258 bytes for ./Payload/NextJAM.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+2021-08-31 11:38:02 +0000  copying file ./Payload/NextJAM.app/Songs.momd/VersionInfo.plist ... 
+2021-08-31 11:38:02 +0000  198 bytes for ./Payload/NextJAM.app/Songs.momd/VersionInfo.plist
+2021-08-31 11:38:02 +0000  copying file ./Payload/NextJAM.app/Songs.momd/HostSongs.mom ... 
+2021-08-31 11:38:02 +0000  2677 bytes for ./Payload/NextJAM.app/Songs.momd/HostSongs.mom
+2021-08-31 11:38:02 +0000  copying file ./Payload/NextJAM.app/DashboardTableViewCell.nib ... 
+2021-08-31 11:38:02 +0000  5526 bytes for ./Payload/NextJAM.app/DashboardTableViewCell.nib
+2021-08-31 11:38:02 +0000  copying file ./Payload/NextJAM.app/Assets.car ... 
+2021-08-31 11:38:02 +0000  108976 bytes for ./Payload/NextJAM.app/Assets.car
+2021-08-31 11:38:02 +0000  copying file ./Payload/NextJAM.app/AppIcon76x76@2x~ipad.png ... 
+2021-08-31 11:38:02 +0000  4405 bytes for ./Payload/NextJAM.app/AppIcon76x76@2x~ipad.png
+2021-08-31 11:38:02 +0000  copying file ./Payload/NextJAM.app/Frameworks/SocketIO.framework/_CodeSignature/CodeResources ... 
+2021-08-31 11:38:02 +0000  1798 bytes for ./Payload/NextJAM.app/Frameworks/SocketIO.framework/_CodeSignature/CodeResources
+2021-08-31 11:38:02 +0000  copying file ./Payload/NextJAM.app/Frameworks/SocketIO.framework/SocketIO ... 
+2021-08-31 11:38:02 +0000  1761248 bytes for ./Payload/NextJAM.app/Frameworks/SocketIO.framework/SocketIO
+2021-08-31 11:38:02 +0000  copying file ./Payload/NextJAM.app/Frameworks/SocketIO.framework/Info.plist ... 
+740 bytes for ./Payload/NextJAM.app/Frameworks/SocketIO.framework/Info.plist
+2021-08-31 11:38:02 +0000  copying file ./Payload/NextJAM.app/Frameworks/Starscream.framework/_CodeSignature/CodeResources ... 
+2021-08-31 11:38:02 +0000  1798 bytes for ./Payload/NextJAM.app/Frameworks/Starscream.framework/_CodeSignature/CodeResources
+2021-08-31 11:38:02 +0000  copying file ./Payload/NextJAM.app/Frameworks/Starscream.framework/Starscream ... 
+2021-08-31 11:38:02 +0000  1509728 bytes for ./Payload/NextJAM.app/Frameworks/Starscream.framework/Starscream
+2021-08-31 11:38:02 +0000  copying file ./Payload/NextJAM.app/Frameworks/Starscream.framework/Info.plist ... 
+2021-08-31 11:38:02 +0000  742 bytes for ./Payload/NextJAM.app/Frameworks/Starscream.framework/Info.plist
+2021-08-31 11:38:02 +0000  copying file ./Payload/NextJAM.app/Frameworks/IQKeyboardManager.framework/_CodeSignature/CodeResources ... 
+2021-08-31 11:38:02 +0000  1798 bytes for ./Payload/NextJAM.app/Frameworks/IQKeyboardManager.framework/_CodeSignature/CodeResources
+2021-08-31 11:38:02 +0000  copying file ./Payload/NextJAM.app/Frameworks/IQKeyboardManager.framework/IQKeyboardManager ... 
+2021-08-31 11:38:03 +0000  848640 bytes for ./Payload/NextJAM.app/Frameworks/IQKeyboardManager.framework/IQKeyboardManager
+2021-08-31 11:38:03 +0000  copying file ./Payload/NextJAM.app/Frameworks/IQKeyboardManager.framework/Info.plist ... 
+758 bytes for ./Payload/NextJAM.app/Frameworks/IQKeyboardManager.framework/Info.plist
+2021-08-31 11:38:03 +0000  copying file ./Payload/NextJAM.app/Frameworks/IQKeyboardManagerSwift.framework/_CodeSignature/CodeResources ... 
+2021-08-31 11:38:03 +0000  1798 bytes for ./Payload/NextJAM.app/Frameworks/IQKeyboardManagerSwift.framework/_CodeSignature/CodeResources
+2021-08-31 11:38:03 +0000  copying file ./Payload/NextJAM.app/Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManagerSwift ... 
+2021-08-31 11:38:03 +0000  1801888 bytes for ./Payload/NextJAM.app/Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManagerSwift
+2021-08-31 11:38:03 +0000  copying file ./Payload/NextJAM.app/Frameworks/IQKeyboardManagerSwift.framework/Info.plist ... 
+768 bytes for ./Payload/NextJAM.app/Frameworks/IQKeyboardManagerSwift.framework/Info.plist
+2021-08-31 11:38:03 +0000  copying file ./Payload/NextJAM.app/embedded.mobileprovision ... 
+2021-08-31 11:38:03 +0000  14014 bytes for ./Payload/NextJAM.app/embedded.mobileprovision
+2021-08-31 11:38:03 +0000  copying file ./Payload/NextJAM.app/Info.plist ... 
+2021-08-31 11:38:03 +0000  1904 bytes for ./Payload/NextJAM.app/Info.plist
+copying file ./Payload/NextJAM.app/SearchResultTableViewCell.nib ... 
+2021-08-31 11:38:03 +0000  4106 bytes for ./Payload/NextJAM.app/SearchResultTableViewCell.nib
+2021-08-31 11:38:03 +0000  copying file ./Payload/NextJAM.app/PkgInfo ... 
+8 bytes for ./Payload/NextJAM.app/PkgInfo
+2021-08-31 11:38:03 +0000  /usr/bin/ditto exited with 0
+2021-08-31 11:38:03 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2021-08-31 11:38:03 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2021-08-31 11:38:03 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2021-08-31 11:38:03 +0000  IDEDistributionItem init <DVTFilePath:0x7f9c94746aa0:'/var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/Root/Payload/NextJAM.app/Frameworks/Starscream.framework'>
+2021-08-31 11:38:03 +0000  IDEDistributionItem init <DVTFilePath:0x7f9c932728b0:'/var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/Root/Payload/NextJAM.app/Frameworks/IQKeyboardManager.framework'>
+2021-08-31 11:38:03 +0000  IDEDistributionItem init <DVTFilePath:0x7f9c982f38b0:'/var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/Root/Payload/NextJAM.app/Frameworks/IQKeyboardManagerSwift.framework'>
+2021-08-31 11:38:03 +0000  IDEDistributionItem init <DVTFilePath:0x7f9c943c6d30:'/var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/Root/Payload/NextJAM.app/Frameworks/SocketIO.framework'>
+2021-08-31 11:38:03 +0000  IDEDistributionItem init <DVTFilePath:0x7f9c974fcbb0:'/var/folders/bh/cbvyd9591dqdsnb4rf4_sgkc0000gn/T/XcodeDistPipeline.~~~Xgpqby/Root/Payload/NextJAM.app'>
+2021-08-31 11:38:03 +0000  Processing step: IDEDistributionCreateManifestStep
+2021-08-31 11:38:03 +0000  Skipping step: IDEDistributionCreateManifestStep because it said so
